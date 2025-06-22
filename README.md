@@ -8,7 +8,7 @@ To enhance the robustness of predictions, we incorporate **market-wide indicator
 
 The final and most advanced model is built using a **Long Short-Term Memory (LSTM)** neural network, which is trained on historical TSLA data to forecast future prices based on learned temporal patterns.
 This version is clear, formatted, and visually appealing for a technical audience reading your project
-
+![Alt Text](![Alt Text](Tesla/Opening&Closing_TESLA.png))
 ---
 
 ## 📊 Key Visualizations and Why They Matter
