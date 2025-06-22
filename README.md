@@ -16,7 +16,7 @@ This version is clear, formatted, and visually appealing for a technical audienc
 ### 1. 📉 Line Plot of TSLA Closing & Opening Prices
 - **Purpose:** Observe daily price fluctuations and overall trend.
 - **Why:** Helps detect general direction and seasonal behavior.
-- Tesla/Opening&Closing_TESLA.png
+- ![Alt Text](Tesla/Opening&Closing_TESLA.png)
 
 ### 2. 🔄 Pairplot
 - **Purpose:** Understand correlation between variables (e.g., open, high, low, volume).
