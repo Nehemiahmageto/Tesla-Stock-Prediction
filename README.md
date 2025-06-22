@@ -26,12 +26,12 @@ This version is clear, formatted, and visually appealing for a technical audienc
 ### 3. 📈 50-day and 200-day Moving Averages
 - **Purpose:** Identify medium and long-term trends.
 - **Why:** Common indicators in technical analysis to detect momentum shifts or support/resistance zones.
-  ![Alt Text](Tesla/50-day and 200-day Moving Averages.png)
+  ![Alt Text](Tesla/50-dayand200-dayMovingAverages.png)
 
 ### 4. 🕯️ Candlestick Chart using Plotly
 - **Purpose:** Visualize daily market behavior in detail.
 - **Why:** Offers granular insight into volatility and investor sentiment per trading day.
-  ![Alt Text](Tesla/daily market behavior.png)
+  ![Alt Text](Tesla/dailymarketbehavior.png)
 
 ### 5. 🔗 Correlation Heatmap & Line Plot (TSLA vs SPY)
 - **Purpose:** Compare Tesla with broader market trends (SPY ETF).
@@ -40,11 +40,12 @@ This version is clear, formatted, and visually appealing for a technical audienc
 ### 6. 🧠 Actual vs Predicted Prices
 - **Purpose:** Visually assess model performance.
 - **Why:** Ensures predictions follow realistic stock behavior without overshooting or underfitting.
+ ![Alt Text](Tesla/ActualvsPredictedPrices.png
 
 ### 7. 📉 Loss Curve (Training vs Validation)
 - **Purpose:** Monitor overfitting during LSTM training.
 - **Why:** Helps fine-tune model architecture and regularization.
-
+![Alt Text](Tesla/LossCurve.png
 ---
 
 ## 🧠 Models Used
