@@ -16,19 +16,22 @@ This version is clear, formatted, and visually appealing for a technical audienc
 ### 1. 📉 Line Plot of TSLA Closing & Opening Prices
 - **Purpose:** Observe daily price fluctuations and overall trend.
 - **Why:** Helps detect general direction and seasonal behavior.
-- ![Alt Text](Tesla/Opening&Closing_TESLA.png)
+  ![Alt Text](Tesla/Opening&Closing_TESLA.png)
 
 ### 2. 🔄 Pairplot
 - **Purpose:** Understand correlation between variables (e.g., open, high, low, volume).
 - **Why:** Highlights multicollinearity or redundancy.
+  ![Alt Text](Tesla/Pairplot.png)
 
 ### 3. 📈 50-day and 200-day Moving Averages
 - **Purpose:** Identify medium and long-term trends.
 - **Why:** Common indicators in technical analysis to detect momentum shifts or support/resistance zones.
+  ![Alt Text](Tesla/50-day and 200-day Moving Averages.png)
 
 ### 4. 🕯️ Candlestick Chart using Plotly
 - **Purpose:** Visualize daily market behavior in detail.
 - **Why:** Offers granular insight into volatility and investor sentiment per trading day.
+  ![Alt Text](Tesla/daily market behavior.png)
 
 ### 5. 🔗 Correlation Heatmap & Line Plot (TSLA vs SPY)
 - **Purpose:** Compare Tesla with broader market trends (SPY ETF).
