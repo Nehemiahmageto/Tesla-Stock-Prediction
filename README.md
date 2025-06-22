@@ -2,9 +2,12 @@
 
 ## 🚀 Project Overview
 
-This project analyzes and predicts **Tesla Inc. (TSLA)** stock prices using both traditional regression and advanced deep learning techniques. The workflow integrates **exploratory data analysis**, **statistical learning**, and **time-series modeling**. To enhance prediction robustness, we incorporate **market-wide indicators**—specifically the **SPY ETF** (representing the S&P 500)—to account for broader economic trends.
+In this research project, both **conventional regression** and **advanced deep learning algorithms** are employed to analyze and forecast the stock prices of **Tesla Inc. (TSLA)**. The data analysis process involves a blend of **exploratory data analysis**, **statistical learning**, and **time series modeling**.
 
-The final model leverages a **Long Short-Term Memory (LSTM)** neural network trained on historical TSLA price data to predict future stock values.
+To enhance the robustness of predictions, we incorporate **market-wide indicators**, specifically the **SPY ETF**—a proxy for the S&P 500 index—into the model. This inclusion helps capture broader **macroeconomic dynamics** that may influence Tesla's stock performance.
+
+The final and most advanced model is built using a **Long Short-Term Memory (LSTM)** neural network, which is trained on historical TSLA data to forecast future prices based on learned temporal patterns.
+This version is clear, formatted, and visually appealing for a technical audience reading your project
 
 ---
 
