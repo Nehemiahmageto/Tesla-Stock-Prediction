@@ -36,16 +36,17 @@ This version is clear, formatted, and visually appealing for a technical audienc
 ### 5. 🔗 Correlation Heatmap & Line Plot (TSLA vs SPY)
 - **Purpose:** Compare Tesla with broader market trends (SPY ETF).
 - **Why:** SPY serves as a proxy for macroeconomic behavior—Tesla does not exist in a vacuum. The observed correlation (R ≈ -0.70) justifies its inclusion as a predictive feature.
+![Alt Text](Tesla/correlation.png)
 
 ### 6. 🧠 Actual vs Predicted Prices
 - **Purpose:** Visually assess model performance.
 - **Why:** Ensures predictions follow realistic stock behavior without overshooting or underfitting.
- ![Alt Text](Tesla/ActualvsPredictedPrices.png
+ ![Alt Text](Tesla/ActualvsPredictedPrices.png)
 
 ### 7. 📉 Loss Curve (Training vs Validation)
 - **Purpose:** Monitor overfitting during LSTM training.
 - **Why:** Helps fine-tune model architecture and regularization.
-![Alt Text](Tesla/LossCurve.png
+![Alt Text](Tesla/LossCurve.png)
 ---
 
 ## 🧠 Models Used
